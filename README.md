@@ -1,3 +1,5 @@
+[![Hepsiburada Otomasyon Robotu 🤖](https://github.com/giirgiinbeyza/QA_Otomasyon_Portfolyo/actions/workflows/test_robotu.yml/badge.svg)](https://github.com/giirgiinbeyza/QA_Otomasyon_Portfolyo/actions/workflows/test_robotu.yml)
+
 # Hepsiburada Black Friday Load Test Simulation 🦗
 
 ## Proje Özeti (Project Summary)
