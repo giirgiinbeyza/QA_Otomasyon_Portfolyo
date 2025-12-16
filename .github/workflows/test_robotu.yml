@@ -30,4 +30,4 @@ jobs:
     # -u 10: 10 Kullanıcı ile
     # -t 10s: 10 saniye boyunca test et
     - name: Performans Testini Başlat
-      run: locust -f advanced_test.py --headless -u 10 -r 2 -t 10s
+      run: locust -f advanced_test.py --headless -u 10 -r 2 -t 10s --host https://www.hepsiburada.com
